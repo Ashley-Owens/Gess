@@ -1,7 +1,7 @@
 # Gess
 
 Welcome to the game of Gess! This is a little project I created using Python to play an abstract board game called Gess. 
-Initially, the program was simply meant to satisfy the final project requirements for my CS 162 course, Introduction to 
+Initially, the program was meant to satisfy the final project requirements for my CS 162 course, Introduction to 
 Computer Science II. However, I completed the program early and had some fun designing a front end for it using Pygame.
 
 Please see the game rules for Gess [here](https://www.chessvariants.com/crossover.dir/gess.html). 
