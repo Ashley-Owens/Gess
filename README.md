@@ -16,7 +16,7 @@ I'm new to programming and had never used Pygame before, but I read the document
 to represent all of the game stones. I was so proud of my game board but it didn't function! I became discouraged and 
 didn't think I could finish. After posting a picture of my static board, a classmate messaged me a video of their 
 *working* game board. Oh hell no! Within a day I had a functional program, and after a few more iterations I created this 
-beauty:
+beauty (refresh the page as needed to see the game in action):
 
 ![GessGame](images/GessGame.gif)
 
@@ -34,5 +34,7 @@ version.
 python3 -m pip install pygame
 ```
 If you have trouble installing PyGame, please visit PyGame's [Getting Started](https://www.pygame.org/wiki/GettingStarted) page.
+
+Thank you so much for visiting my project and happy gaming!
 
 
